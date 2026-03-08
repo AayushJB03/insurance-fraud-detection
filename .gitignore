@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / Bun
+node_modules/
+.bun/
+
+# Data
+*.csv
+*.zip
+*.pkl
+*.h5
+
+# Environment
+.env
+venv/
